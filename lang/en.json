@@ -1,0 +1,33 @@
+{
+  "documentation": "documentation",
+  "changelog": "changelog",
+  "micro-framework for Flutter": "micro-framework for Flutter",
+  "hello": "hello {{name}}",
+  "onboarding_text": "Connect easily with your family and friends over countries",
+
+  "continue": "Continue",
+  "save": "Save",
+
+  "no_friends": "You have no friends available now",
+  "onboarding_page": {
+    "terms_policy": "Terms & Privacy Policy",
+    "start_message": "Start Messaging"
+  },
+
+  "input_message": "Type your message",
+  "phone_min_11": "Phone number minimum 11 characters",
+  "fullname_min": "Full Name minimum {{digit}} characters",
+
+  "register_phone": {
+    "enter_phone_num": "Enter Your Phone Number",
+    "confirm": "Please confirm your country code and enter your phone number"
+  },
+
+  "titles": {
+    "register_data": "Your Profile"
+  },
+
+  "search": "Search",
+
+  "fullname_required": "Full Name (Required)"
+}
